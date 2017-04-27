@@ -1,0 +1,103 @@
+Vesrion 1.1.2 – October 9, 2013 
+- VisualComposer updated to latest version
+-----
+To update: - Reinstall theme
+
+
+Vesrion 1.1.1 – September 19, 2013
+- RevSlider updated to latest version
+- VisualComposer updated to latest version
+- Added woocommerce support
+- Fix for menu in IE10
+-----
+To update:
+- Reinstall this RevSlider plugin - it's in /plugins/revslider.zip
+- Upload new file woocommerce.php in wp-content/themes/commander
+- Replace functions.php in wp-content/themes/commander
+- Replace custom.js in wp-content/themes/commander/assets/js
+
+
+v1.1.0 – May 23, 2013
+– Updated RevSlider
+– Updated Visual Composer 
+
+
+v1.0.8 – December 19, 2012
+– Fixed new bugs with wordpress 3.5 compatability
+– Updated RevSlider
+– Updated Visual Composer 
+
+v1.0.7 – December 13, 2012
+– Fixed new bugs with wordpress 3.5 compatability
+– Updated RevSlider
+– Updated Visual Composer 
+
+Vesrion 1.0.6 additional
+---
+Fixed contact form
+--
+PLease replace footer.php
+
+
+
+Vesrion 1.0.6
+---
+Updated Visual composer to latest veriosn
+Added Pinterest icon
+Added linkedin icon
+Added New shortcode for fullwidth revolution slider on the pages
+Improved demo Content
+--
+Replace page_builder folder
+Replace /header.php
+Replace /inc/shortcodes.php
+Replace /style.css
+Replace /assets/img
+Replace /admin/functions/functions-options.php
+-
+How to use New shortcode for fullwidth revolution slider on the pages
+1) Create text element in visual composr and past this code:
+[break top="0px" bottom="0px"]
+   [rev_slider main_slider]
+[/break]
+
+2)
+main_slider in [rev_slider main_slider] - slider alias
+top/bottom in [break top="0px" bottom="0px"] are top and bottom margins.
+
+
+
+Vesrion 1.0.5 additional
+---
+Fixed "Save current page as a Template" in Page Builder
+--
+Just replace page_builder folder
+
+
+
+
+
+Vesrion 1.0.5
+----
+Fixed display rev slider on each page
+Added standard page with rigth sidebar
+Added standard page with left sidebar
+Added widgets areas for right and left sidebars
+Fixed bugs for php 5.4+
+Added the ability to upload image for blog post uthor
+Fixed translations
+Fixed small style issues
+--
+Files to change:
+style.css
+blog.php
+single.php
+portolio.php
+single-portfolio-type.php
+functions.php
+archive.php
+contacts.php
+with-sidebar.php
+with-left-sidebar.php (new file)
+/assets/css/style.php
+/admin/functions/functions-options.php
