@@ -1,6 +1,0 @@
-[01-Mar-2016 06:21:20] PHP Fatal error:  Call to undefined function  language_attributes() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/header.php on line 12
-[01-Mar-2016 06:21:21] PHP Fatal error:  Call to undefined function  add_action() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/functions.php on line 10
-[01-Mar-2016 06:21:21] PHP Fatal error:  Call to undefined function  jobify_theme_mod() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/footer.php on line 15
-[01-Mar-2016 06:21:23] PHP Fatal error:  Call to undefined function  get_header() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/archive.php on line 9
-[13-Mar-2016 06:49:04] PHP Fatal error:  Call to undefined function  add_action() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/functions.php on line 10
-[13-Mar-2016 06:49:05] PHP Fatal error:  Call to undefined function  jobify_theme_mod() in /home2/onlinfg6/public_html/wp-content/themes/jobify-child/footer.php on line 15

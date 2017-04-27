@@ -1,10 +1,10 @@
 /*
-Theme Name: Jobify - Child
-Theme URI: https://astoundify.com/
-Author: Astoundify
-Author URI: http://astoundify.com
+Theme Name: Custom child theme for RCM
+Theme URI: https://mu-bit.com/
+Author: bravokeyl
+Author URI: https://bravokeyl.com/
 Description: A beautiful job board site completely integrated with Mike Jolley's WP Job Manager plugin. Use 10+ custom widgets including an interactive map, multiple sliders, testimonials, and more to create a unique homepage in seconds.
-Version: 1.0.2
+Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: white, one-column, right-sidebar, fixed-width, custom-background, custom-header, theme-options, full-width-template, featured-images, flexible-header, custom-menu, translation-ready
@@ -73,7 +73,7 @@ body {background: none repeat scroll 0% 0% #F2F0EC !important;font: 14px 'Open S
 .jobify_widget_slider_hero .soliloquy-container .soliloquy-caption p {
     max-width: 40%;
     font-family: "Oswald",Arial,Helvetica,sans-serif;    }
-#text-9{display:none;} 
+#text-9{display:none;}
 .jobify_widget_slider_hero{margin:0 !important;}
 #text-4  {    position: absolute;
     right: 0px;
@@ -84,7 +84,7 @@ body {background: none repeat scroll 0% 0% #F2F0EC !important;font: 14px 'Open S
     width: 100%;
     margin: 0px auto;
     position: relative;
-    
+
     left: 50%;
     max-width: 750px;
     transform: translate(-50%, -50%);
@@ -108,10 +108,10 @@ body {background: none repeat scroll 0% 0% #F2F0EC !important;font: 14px 'Open S
     width: 234px;
 }
 .fb-connection .t-top {
-    background: none repeat scroll 0% 0% #4E69A2; 
+    background: none repeat scroll 0% 0% #4E69A2;
 }
 .linkedin-connection .t-top {
-    background: none repeat scroll 0% 0% #287BBC; 
+    background: none repeat scroll 0% 0% #287BBC;
 }
 .upload-resume .t-top {
     background: none repeat scroll 0% 0% #924f96; /*B37A8E;*/
@@ -167,7 +167,7 @@ display:none;
 .whatsapp-us-header, .whatsapp-us-header-mobile  {
     top: -430px;
     text-align: center;
-	
+
 }
 .whatsapp-us-connect .t-top, .whatsapp-us-connect-mobile .t-top { background:  #5374A6;}
 
@@ -241,7 +241,7 @@ display: block;
 }
 .support-text {
     font-size: 17px;line-height:24px;
-    
+
 }
 .support-text {
     /*font-family: "blackjackregular",serif;*/
@@ -250,13 +250,13 @@ font-family: "oswald",Arial,Helvetica,sans-serif;
 .support-text a{display:inline-block;}
 
 .company-social a, .job_listing a, .job_listing_preview a, .resume_preview a, .type-resume a {
-    color: #287BBC; 
+    color: #287BBC;
 }
 
 .paypal-fees-form {width: 47%;
 float: left;}
 .onlinecourses {width: 100%;float: left;}
-table.online-courses-table, table.featured-jobs-table {/*border-collapse: separate;*/ background-color: #fff;     border-style: solid solid solid;     border-width: 1px 1px 1px;     border-color: #ccc;     margin-bottom: 0;     /*margin-top: 10px;  */   padding: 10px 0;     color: #222222;     font-size: 100%;     margin-left: 0px;     max-height: 31px;     text-align: center;     width: 100%; }  
+table.online-courses-table, table.featured-jobs-table {/*border-collapse: separate;*/ background-color: #fff;     border-style: solid solid solid;     border-width: 1px 1px 1px;     border-color: #ccc;     margin-bottom: 0;     /*margin-top: 10px;  */   padding: 10px 0;     color: #222222;     font-size: 100%;     margin-left: 0px;     max-height: 31px;     text-align: center;     width: 100%; }
 .online-courses-table tbody tr td, .featured-jobs-table tr td {  width: 100%;      color: #000;     max-height: 31px;     padding: 5px 0px; text-align: center;}
 .online-courses-img-caption {
 text-align: center;
@@ -337,7 +337,7 @@ table.online-courses-table {
     padding: 0px;
     margin-bottom: 0px;
 }
-/*FS COntact Forms*/ 
+/*FS COntact Forms*/
 #FSContact1, #FSContact2 {
 max-width: 1170px;
 background: #fff;
@@ -392,9 +392,9 @@ padding: 10px;}
 
 .rcm-contact h1 a {
 		background-image: url(http://www.oxfordonlineenglish.com/wp-content/uploads/2014/05/ooe_selected_logo.jpg);
-	
+
 	height: 84px;
-    
+
 	background-position: center top;
 	background-repeat: no-repeat;
 	color: #999;
@@ -452,7 +452,7 @@ width: auto;
 #rcm-contact-submit-button {
     color: #FFF;
     background: none repeat scroll 0% 0% #287BBC;
-    
+
 }
 
 .rcm-contact select, .rcm-contact input[type="text"], .rcm-contact input[type="password"] {
@@ -538,9 +538,9 @@ padding-right: 12px;}
 
 @media all and (min-width:768px){
 	.fb-connection .fa-icon, .linkedin-connection .fa-icon,.upload-resume .fa-icon, .inner-social {display: none;}
-	.homepage-widget-title {    margin-bottom: 20px;}	
+	.homepage-widget-title {    margin-bottom: 20px;}
 }
-@media all and (max-width: 767px){ 
+@media all and (max-width: 767px){
   .apply-today {width: 95%;}
 	#text-4 {position: relative;top: 0px !important;float: none; margin: -10px auto 0 !important; right: auto;left: auto;background: #ddd;height:30px;} #text-4 .container{display: none;}
 #text-4{display:none;}
@@ -548,7 +548,7 @@ padding-right: 12px;}
 #masthead .footer-social {position: absolute;top: 0%;right: 0px !important;float: right;text-align: right;margin: 0px !important;}
 #masthead .footer-social a {margin: 0;	}
 }
-@media all and (max-width: 600px){ 
+@media all and (max-width: 600px){
 	.apply-today .caption {font-size: 12px;padding: 0px 5px;height: 23px;}
 	.jobify_widget_slider_hero .soliloquy-container .soliloquy-caption-title {
     max-width: 57%;
@@ -557,13 +557,13 @@ padding-right: 12px;}
     word-break: keep-all !important;}
 
 }
-@media all and (max-width: 480px){ 
+@media all and (max-width: 480px){
 .site-title img {max-width: 105px;margin-bottom:3px !important;}
 .site-description{font-size:11px !important;letter-spacing: 1px;}
    #text-9{display:block;} #text-9 p{margin:0 !important;} #text-9{font-family: "oswald",Arial,Helvetica,sans-serif;font-size: 14px;}
    .jobify_widget_slider_hero,   .jobify_widget_slider_hero .soliloquy-container .soliloquy-caption-title {display: none;}
    #text-5 .homepage-widget-title, .homepage-widget.jobify_widget_slider_hero:first-child {    margin-bottom: 0;}
-   
+
 .rcm-contact .title , #rcm-contact-dialog-qk .title{font-size:13px !important;letter-spacing:1px;}
 
 .homepage-widget-title {margin: 0px 0px 5px !important;font-size:20px;}
@@ -585,5 +585,3 @@ li.type-job_listing .position h3, li.type-resume .position h3, li.type-job_listi
 .wp-posts-carousel-desc .purpletableheader {font-size:12px;}
 /*.footer-social a[href*="/currency-converter"] {background: transparent url("images/currency-converter-small.jpg") no-repeat scroll 0% 0%;height: 21px;width: 85px;}*/
 }
-
-
